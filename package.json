@@ -1,0 +1,21 @@
+{
+  "name": "dirname4import",
+  "version": "1.0.0",
+  "description": "A simple piece of code to have the complete path of any file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmarinmendez/dirname4import.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmarinmendez/dirname4import/issues"
+  },
+  "homepage": "https://github.com/alexmarinmendez/dirname4import#readme"
+}
